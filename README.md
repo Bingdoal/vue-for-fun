@@ -1,24 +1,3 @@
-# for-fun
+# 4fun
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+實驗性做出來的專案，用來測試各種東西，請搭配後端 [node-for-fun]() 使用
